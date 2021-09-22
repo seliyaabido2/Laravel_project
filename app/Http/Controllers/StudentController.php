@@ -134,4 +134,4 @@ class StudentController extends Controller
 }
 
 
-// git commit
+// git committ
